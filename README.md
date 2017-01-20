@@ -1,4 +1,8 @@
-# vue2 project example
+# vue2 project example - autocomplete
+
+> add autocomplete .. use by add component autocomplete
+
+> add schema (Array) to component & get the selected value by modal
 
 > vue2.x with vuex, vue-router, vue-resource, vue-i18n by vue-cli with yarn
 
